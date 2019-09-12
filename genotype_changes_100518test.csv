@@ -1,0 +1,9 @@
+locus,CHROM,loc_num,id,Indiv,gt_GT_alleles
+Loc_2_151,Loc_2,2,100685,Ppho100685,C/C
+Loc_2_151,Loc_2,2,101848,Ppho101848,NA
+Loc_2_151,Loc_2,2,1055,Ppho1055,NA
+Loc_2_151,Loc_2,2,1056,Ppho1056,NA
+Loc_5_151,Loc_5,5,100685,Ppho100685,C/C
+Loc_5_151,Loc_5,5,101848,Ppho101848,NA
+Loc_5_151,Loc_5,5,1055,Ppho1055,NA
+Loc_5_151,Loc_5,5,1056,Ppho1056,NA
